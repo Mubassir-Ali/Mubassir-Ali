@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mubassir-Ali
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JAM-Stack
+- 👀 I’m interested in AWS
+- 🌱 I’m currently learning Full Stack Developer at MERIK SOLUTION
 - 📫 mubassir11@gmail.com to reach me
 
 <!---
